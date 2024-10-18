@@ -1,1 +1,1 @@
-Création d'une structure d'indexation avec un arbre d'intervalle pour optimier une recherche
+Création d'une structure d'indexation avec des arbres d'intervalles pour optimiser une recherche
